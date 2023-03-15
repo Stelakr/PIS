@@ -10,7 +10,8 @@ namespace Vjezba_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Novo");
+            Console.WriteLine("Novo");//Heeeeey how you doin?
         }
     }
 }
+
